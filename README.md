@@ -1,6 +1,13 @@
 # Poker-Tournament
 Programul presupune realizarea unei aranjari efeciente a jucatorilor la un turneu de poker folosind Structuri de Date si anume liste(generice).
 
+---Exemplu rulare:
+linux terminal:
+1. make
+2. ./poker_tournament conf9.txt test9.in out.txt
+-- In out.txt se va genera rezultatul
+
+
 --Acest program simuleaza aranajarea si re-aranjarea jucatorilor la un turneu de poker, la anumite mese, urmand anumite conditii.
 
 1. Sala de joc e reprezentata sub forma unei liste simplu inlantuite fara santinela.
